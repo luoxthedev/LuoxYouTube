@@ -4,8 +4,7 @@
 
 ## 👨‍💻 Actuellement en train de travailler sur...
 
-- **[Netheria SMP](https://netheria.luox.dev)** : SMP Minecraft Français et Chill.      
-Versions supportées : **1.13+**  -  IP : play.luox.dev
+- **[Unixsys.tech](https://unixsys.tech)** : Un hebergeur gratuit pour tout vos projets NodeJS, Python, votre site web, Rust, et Go. [Cliquez ici pour commencer !](https://dsc.unixsys.tech)
 
 - **[Sublify.cc](https://sublify.cc)** : Le meilleur outil gratuit pour les developpeurs ; creez votre premier sous-domaine gratuitement en moins de 5 minutes, et connectez le à votre projet ! Votre site est maintenant disponible sur [nom].luox.dev !
 
