@@ -4,11 +4,8 @@
 
 ## 👨‍💻 Actuellement en train de travailler sur...
 
-- **[Unixsys.tech](https://unixsys.tech)** : Un hebergeur gratuit pour tout vos projets NodeJS, Python, votre site web, Rust, et Go. [Cliquez ici pour commencer !](https://dsc.unixsys.tech)
-
-- **[Sublify.cc](https://sublify.cc)** : Le meilleur outil gratuit pour les developpeurs ; creez votre premier sous-domaine gratuitement en moins de 5 minutes, et connectez le à votre projet ! Votre site est maintenant disponible sur [nom].luox.dev !
-
-- Developer @ **[NullSecurity](https://github.com/NullSecurity-org)**
+- Developer @ **[Altery](https://github.com/Altery-DEV)**
+- I can code Discord bots / dashboards / tools —> **[DM ME](https://discord.com/users/652920553866526780)**
 
 
 ## 🔥 Mes Compétences
